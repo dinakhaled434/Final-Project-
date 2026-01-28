@@ -1,5 +1,8 @@
 # CCNA Final Project
 
+# Topology Diagram
+<img width="1518" height="700" alt="topology" src="https://github.com/user-attachments/assets/a811692c-32d3-440a-ac4b-f3e9f011df78" />
+
 ## 🧩 Overview
 
 This project represents an enterprise-style network scenario designed to demonstrate core CCNA concepts in routing, switching, services, and security.
